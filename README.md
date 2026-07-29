@@ -1,2 +1,2 @@
 # SQL_Injection
-There are the my study material for sql injection . All of them are either reading material or solution to some problems . The file format is markdown . 
+This repository accompanies my daily cybersecurity study series on YouTube. It contains my SQL Injection notes, study resources, practice solutions, and revision material—all written in Markdown and updated as I learn.
